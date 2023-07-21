@@ -7,7 +7,7 @@ jobs:
       - name: print greeting
         run: |
             echo "Hello World!"
-            echo "Hello Praneeth"
+            echo "Hello Praneeth I m new here"
       - name: print goodbye
         run: echo "Done- bye"
           
